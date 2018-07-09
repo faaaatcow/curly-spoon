@@ -13,7 +13,7 @@
 ### 2.案例-提升新户留存  
 
 
-- 确定激活目标
+- 确定激活目标  
 自己产品的Aha Moment是什么？
 对各功能的用户留存率进行分析对比，找到留存率最高的功能。
 ![留存率最高的功能是？](http://blog.growingio.com/uploads/attachment/resource/489/1519719097083.jpg)
