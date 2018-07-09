@@ -1,7 +1,7 @@
 ## App留存分析
 ### 1.留存分析框架  
 
-[用户三大留存阶段](http://blog.growingio.com/uploads/attachment/resource/488/1519719096362.jpg)
+![用户三大留存阶段](http://blog.growingio.com/uploads/attachment/resource/488/1519719096362.jpg)
  
 - **短期阶段**：关注用户激活，让用户迅速低成本地感受到产品的核心价值，快速达到"aha moment"（惊喜时刻）。
 
